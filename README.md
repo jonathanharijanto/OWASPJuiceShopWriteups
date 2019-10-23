@@ -1,4 +1,4 @@
-# OWASPJuiceShopWriteups
+# (OWASP) Juice Shop Writeups
 
 Writeups for OWASP Juice Shop challenges (https://www2.owasp.org/www-project-juice-shop/)
 
